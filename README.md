@@ -8,9 +8,7 @@ Demo Project
 ==============
 See `Demo/ImageTextView.xcodeproj`
 
-<img src="https://github.com/superCode8/ImageTextView/blob/master/look.png" width="320"><br/>
+<img src="https://github.com/superCode8/ImageTextView/blob/master/look.png" width="320">
 
-点击item之后，弹出大图
-<img src="https://github.com/superCode8/ImageTextView/blob/master/look2.png" width="320"> 
 
 ￼￼
