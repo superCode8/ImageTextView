@@ -8,7 +8,9 @@ Demo Project
 ==============
 See `Demo/ImageTextView.xcodeproj`
 
-<img src="https://raw.github.com/ibireme/YYKit/master/Demo/Snapshots/twitter.png" width="320"><br/>
-<img src="https://raw.github.com/ibireme/YYKit/master/Demo/Snapshots/weibo.png" width="320"> <img src="https://raw.github.com/ibireme/YYKit/master/Demo/Snapshots/weibo_compose.png" width="320">
+<img src="https://github.com/superCode8/ImageTextView/blob/master/look.png" width="320"><br/>
+
+点击item之后，弹出大图
+<img src="https://github.com/superCode8/ImageTextView/blob/master/look2.png" width="320"> 
 
 ￼￼
